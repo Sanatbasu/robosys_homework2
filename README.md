@@ -5,8 +5,7 @@
 |  OS  |  Ubuntu20.4  |
 |  ミドルウェア|  ROS  |
 ## インストール方法
-  以下の順番でコマンドを実行しクローンします  
- `$ cd ~/catkin_ws/src`      
+  以下の順番でコマンドを実行しクローンします      
  `$ git clone https://github.com/Sanatbasu/robosys_homework2.git`  
  ## 動作方法
  以下のコマンドでビルドし,`$ roscore`を起動します    
