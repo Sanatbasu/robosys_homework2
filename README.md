@@ -15,7 +15,7 @@
 新しいターミナルを２つ開きそれぞれのコマンドを実行します    
 `$ rosrun mypkg pub.py`    
 `$ rosrun mypkg sub.py`    
-pub.pyで実行したターミナルから数字を入力すると掛け算した値が計算されます
+pub.pyで実行したターミナルから数字を入力するとsub.pyで掛け算した値がだされます
 ## 実行動画
 https://www.youtube.com/watch?v=Fzon_MO8D_Y
 ## ライセンス
