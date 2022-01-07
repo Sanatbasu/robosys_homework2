@@ -6,7 +6,8 @@
 |  ミドルウェア|  ROS  |
 ## インストール方法
   以下の順番でコマンドを実行しクローンします      
- `$ git clone https://github.com/Sanatbasu/robosys_homework2.git`  
+ `$ git clone https://github.com/Sanatbasu/robosys_homework2.git`   
+  `$ cd ~/robosys_homework2/scripts`     
  ## 動作方法
  以下のコマンドでビルドし,`$ roscore`を起動します    
  `$ catkin_make`     
