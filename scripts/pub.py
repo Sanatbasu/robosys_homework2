@@ -1,14 +1,6 @@
 #!/usr/bin/env python3
 
-<<<<<<< HEAD
-
 #Copyright_Name RyuichiUeda
-
-
-
-=======
-Copyright_Name RyuichiUeda
->>>>>>> refs/remotes/origin/add-license-1
 
 import rospy
 from std_msgs.msg import Int32
